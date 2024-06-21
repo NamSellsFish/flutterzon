@@ -139,7 +139,7 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
 - Clone this repository
 
   ```bash
-
+  git clone https://github.com/NamSellsFish/flutterzon.git
   ```
 
 - Migrate to the root directory and install all the required dependencies by running
